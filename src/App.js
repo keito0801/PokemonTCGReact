@@ -36,7 +36,7 @@ class App extends React.Component {
     return (
       <div>
         <Search searchFunc={this.searchFunc} />
-       
+        
           <Cards cards={this.state.cards} />
       </div>
     );

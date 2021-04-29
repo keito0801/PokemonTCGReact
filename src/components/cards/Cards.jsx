@@ -2,18 +2,6 @@ import React from "react";
 import "./Cards.css";
 
 class cards extends React.Component {
-  constructor() {
-    super();
-      this.state = {
-      isFlipped: false
-    };
-    this.handleClick = this.handleClick.bind(this);
-  }
-
-  handleClick(e) {
-    e.preventDefault();
-    this.setState(prevState => ({ isFlipped: !prevState.isFlipped }));
-  }
   render() {
     const { cards } = this.props;
 
