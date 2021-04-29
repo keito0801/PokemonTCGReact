@@ -11,8 +11,10 @@ Some ideas for future improvements could include making each card interative so 
 User Stories
 
 As a Pokemon TCG player, I want to be able to easily search for any pokemon to see a list of cards related to them
+
 As a Pokemon TCG player, I want to people able to easily see each cards information so that I may learn more about each card
-AS a pokemon TCG player, I want to be able to easily narrow down my search so that I can more easily find a particalur card I am looking fo
+
+AS a pokemon TCG player, I want to be able to easily narrow down my search so that I can more easily find a particalur card I am looking for
 
 
 
